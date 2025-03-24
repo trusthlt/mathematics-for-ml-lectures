@@ -1,15 +1,18 @@
 ## Mathematics for Machine Learning
+### Course Details
+This lecture was held by Mahammad Namazov, during the Summer semester of the academic year of 2023/24 at Paderborn University. Course materials were developed by using the [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) book by Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong.
 
-### Lecture 1: Introduction to MML
+### Course Contents
+#### Lecture 1: Introduction to MML
  - Lecture Slides: [Lecture 1](lectures/lecture-1-intro-to-mml.pdf)
  - Exercises:
-### Lecture 2: Vector Spaces
+#### Lecture 2: Vector Spaces
  - Lecture Slides: [Lecture 2](lectures/lecture-2-vector-spaces.pdf)
  - Exercises:
-### Lecture 3: Linear Transformation
+#### Lecture 3: Linear Transformation
  - Lecture Slides: [Lecture 3](lectures/lecture-3-linear-transformation.pdf)
  - Exercises:
-### Lecture 4: Linear Algebra and Analytic Geometry
+#### Lecture 4: Linear Algebra and Analytic Geometry
  - Lecture Slides: [Lecture 4](lectures/lecture-4-linear-algebra-and-analytic-geometry.pdf)
  - Exercises:
 ### Lecture 5: Vector Calculus
