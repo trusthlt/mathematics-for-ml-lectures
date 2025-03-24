@@ -15,21 +15,21 @@ This lecture was held by Mahammad Namazov, during the Summer semester of the aca
 #### Lecture 4: Linear Algebra and Analytic Geometry
  - Lecture Slides: [Lecture 4](lectures/lecture-4-linear-algebra-and-analytic-geometry.pdf)
  - Exercises:
-### Lecture 5: Vector Calculus
+#### Lecture 5: Vector Calculus
  - Lecture Slides: [Lecture 5](lectures/lecture-5-vector-calculus.pdf)
  - Exercises:
-### Lecture 6: Probability Theory
+#### Lecture 6: Probability Theory
  - Lecture Slides: [Lecture 6](lectures/lecture-6-probability-theory.pdf)
  - Exercises:
-### Lecture 8: Probability Distribution
+#### Lecture 8: Probability Distribution
  - Lecture Slides: [Lecture 8](lectures/lecture-8-probability-distributions.pdf)
  - Exercises:
-### Lecture 9: Optimization and Regression
+#### Lecture 9: Optimization and Regression
  - Lecture Slides: [Lecture 9](lectures/lecture-9-optimization-and-regression.pdf)
  - Exercises:
-### Lecture 10: Dimensionality Reduction
+#### Lecture 10: Dimensionality Reduction
  - Lecture Slides: [Lecture 10](lectures/lecture-10-dimensionality-reduction.pdf)
  - Exercises:
-### Lecture 11: Multi-Layer Perceptron
+#### Lecture 11: Multi-Layer Perceptron
  - Lecture Slides: [Lecture 11](lectures/lecture-11-multi-layer-perceptron.pdf)
  - Exercises:
